@@ -8,6 +8,8 @@ I am a front end developer who wants to learn more and more, focused on adding v
 📫 &nbsp;How to contact me: ronebs@outlook.com\
 🎮 &nbsp;Fun fact: I love play games and discuss about them, my Steam ID: [ronebs10](https://steamcommunity.com/id/ronebs10/) =)
 
+### 🛠 &nbsp;Tech Stack
+
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
