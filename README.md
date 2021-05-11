@@ -28,7 +28,7 @@ I am a front end developer who wants to learn more and more, focused on adding v
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-  <a href="mailto:ronebs@outlook.com" target="_blank"><img src="https://img.shields.io/badge/outlook-ronebs@outlook.com-blue"/></a>
+  <a href="mailto:ronebs@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-ronebs@outlook.com-blue"/></a>
   <a href="https://www.linkedin.com/in/rone-silveira-8387ab27/" target="_blank"><img src="https://img.shields.io/badge/-@RoneBS-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/ronebs" target="_blank"><img src="https://img.shields.io/badge/-@RoneBs-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/rone.b.silveira" target="_blank"><img src="https://img.shields.io/badge/-@RoneBS-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
