@@ -29,6 +29,8 @@ I am a front end developer who wants to learn more and more, focused on adding v
 
 ### 🤝🏻 &nbsp;Connect with Me
 
+![Rone's github stats]{https://github-readme-stats.vercel.app/api?username=RoneBS&show_icons=true&theme=radical}
+
 <p>
   <a href="mailto:ronebs@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-ronebs@outlook.com-blue"/></a>
   <a href="https://www.linkedin.com/in/rone-silveira-8387ab27/" target="_blank"><img src="https://img.shields.io/badge/-@RoneBS-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
